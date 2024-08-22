@@ -4,6 +4,7 @@ import { FiDownload } from "react-icons/fi";
 import { RiCloseLine } from "react-icons/ri";
 import { motion } from "framer-motion";
 
+
 function Card({ data, reference }) {
   return (
     <>
